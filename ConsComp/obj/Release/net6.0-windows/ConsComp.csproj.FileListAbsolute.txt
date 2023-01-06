@@ -1,0 +1,15 @@
+C:\Coding\C#\ConsComp\ConsComp\bin\Release\net6.0-windows\ConsComp.exe
+C:\Coding\C#\ConsComp\ConsComp\bin\Release\net6.0-windows\ConsComp.deps.json
+C:\Coding\C#\ConsComp\ConsComp\bin\Release\net6.0-windows\ConsComp.runtimeconfig.json
+C:\Coding\C#\ConsComp\ConsComp\bin\Release\net6.0-windows\ConsComp.dll
+C:\Coding\C#\ConsComp\ConsComp\bin\Release\net6.0-windows\ConsComp.pdb
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.csproj.AssemblyReference.cache
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.AssemblyInfoInputs.cache
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.AssemblyInfo.cs
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.csproj.CoreCompileInputs.cache
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.dll
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\refint\ConsComp.dll
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.pdb
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ConsComp.genruntimeconfig.cache
+C:\Coding\C#\ConsComp\ConsComp\obj\Release\net6.0-windows\ref\ConsComp.dll
