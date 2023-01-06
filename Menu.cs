@@ -76,7 +76,6 @@ namespace ConsComp
                         }
                         break;
                 }
-
             } while (keyPressed != ConsoleKey.Enter);
             return currentIndex;
         }
